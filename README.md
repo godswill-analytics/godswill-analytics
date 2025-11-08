@@ -1,7 +1,15 @@
-<!-- PROFILE README for godswill-analytics -->
+<!-- Advanced PROFILE README for godswill-analytics -->
 
-<h1 align="center">👋 Hi, I'm Godswill</h1>
-<h3 align="center">Data Engineer | Analytics Consultant | Cloud & AI Enthusiast</h3>
+<!-- Header with Profile Picture -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your_user_id_here?v=4" width="120" height="120" style="border-radius:50%;" alt="Godswill's Avatar">
+</p>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=29B5E8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Godswill!;Data+Engineer+%7C+Analytics+Consultant;Cloud+%26+AI+Enthusiast;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="https://github.com/godswill-analytics">
@@ -16,12 +24,12 @@
 
 ### 🧠 About Me
 
-- 💼 Data Engineer & Analytics Consultant passionate about transforming **raw data into actionable insights**
-- 🚀 Skilled in building **data pipelines, dashboards, and cloud data warehouses**
-- 🌍 Currently contributing to **data engineering projects** and remote consulting roles
-- 🧩 I enjoy solving real-world problems with **ETL, automation, and cloud technologies**
-- 💬 Ask me about **SQL, Python, dbt, Snowflake, Azure Data Factory, and PySpark**
-- 🎯 Goal: To design scalable data systems that empower decision-making
+- 💼 **Data Engineer** & **Analytics Consultant** with a passion for scalable data systems  
+- 🧩 Experienced in designing **ETL pipelines**, **data models**, and **dashboards** for insights-driven organizations  
+- ☁️ Skilled in **Azure Data Factory**, **Snowflake**, **PySpark**, **PostgreSQL**, and **dbt**  
+- 🧠 Focused on turning **data into strategy** through storytelling and analytics  
+- 🌍 Open to **remote collaborations** on data & AI-driven projects  
+- 💬 *“I believe data is the modern language of impact.”*
 
 ---
 
@@ -41,8 +49,8 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 #### ☁️ Cloud & Analytics
@@ -55,31 +63,45 @@
 
 ---
 
-### 💡 Featured Projects
+### 🧾 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt%20Certified%20Developer-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake%20SnowPro%20Core-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧩 **ETL Marketing Data Pipeline** | Built a metadata-driven ETL pipeline that ingests data from Meta, Google Ads, and LinkedIn into PostgreSQL | ADF, PySpark, Azure Blob, PostgreSQL |
-| 🏥 **Healthcare Real Estate Analytics** | Designed analytics dashboards to track senior care property performance in Texas | Power BI, SQL, Azure Synapse |
-| 🧬 **Medical Spa Marketing Insights** | Automated performance tracking for aesthetics campaigns using dbt + Snowflake | dbt, Snowflake, Google Analytics |
-| 🌍 **Project Love In Action** | Data and tech support for nonprofit outreach in Ubakala, Nigeria | Python, Airtable, Google Sheets |
+| 🧩 **ETL Marketing Data Pipeline** | Automated metadata-driven ETL pipeline to unify data from Meta, Google Ads, and LinkedIn into PostgreSQL. | ADF • PySpark • Azure Blob • PostgreSQL |
+| 🏥 **Healthcare Real Estate Analytics** | Created Power BI dashboards to track property performance across senior care facilities in Texas. | Power BI • SQL • Azure Synapse |
+| 💉 **Medical Spa Performance Insights** | Built a dbt + Snowflake data model to analyze campaign ROI for a medical aesthetics firm. | dbt • Snowflake • Google Analytics |
+| 🌍 **Project Love In Action** | Supported data collection and visualization for nonprofit outreach in Ubakala, Nigeria. | Python • Google Sheets • Airtable |
 
-> 🧾 Explore more at [my repositories »](https://github.com/godswill-analytics?tab=repositories)
+> 🔍 Explore more on [my repositories »](https://github.com/godswill-analytics?tab=repositories)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godswill-analytics&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godswill-analytics&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godswill-analytics&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=godswill-analytics&show_icons=true&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godswill-analytics&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:godswill.analytics@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/godswill-analytics/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/godswill-analytics"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -88,5 +110,5 @@
 ---
 
 <p align="center">
-  💬 *"Turning complex data into powerful stories that drive impact."*
+  💬 *"Transforming raw data into clear insights and business value."*
 </p>
