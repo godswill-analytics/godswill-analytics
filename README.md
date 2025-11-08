@@ -2,7 +2,7 @@
 
 <!-- Header with Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_user_id_here?v=4" width="120" height="120" style="border-radius:50%;" alt="Godswill's Avatar">
+  <img src="https://avatars.githubusercontent.com/u/242799805?v=4" width="120" height="120" style="border-radius:50%;" alt="Godswill's Avatar">
 </p>
 
 <h1 align="center">
