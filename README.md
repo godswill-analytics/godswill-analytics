@@ -77,10 +77,10 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🧩 **ETL Marketing Data Pipeline** | Automated metadata-driven ETL pipeline to unify data from Meta, Google Ads, and LinkedIn into PostgreSQL. | ADF • PySpark • Azure Blob • PostgreSQL |
-| 🏥 **Healthcare Real Estate Analytics** | Created Power BI dashboards to track property performance across senior care facilities in Texas. | Power BI • SQL • Azure Synapse |
-| 💉 **Medical Spa Performance Insights** | Built a dbt + Snowflake data model to analyze campaign ROI for a medical aesthetics firm. | dbt • Snowflake • Google Analytics |
-| 🌍 **Project Love In Action** | Supported data collection and visualization for nonprofit outreach in Ubakala, Nigeria. | Python • Google Sheets • Airtable |
+| 🧩 **End-to-End-COVID-19-Data-Pipeline-Using-Azure-Data-Factory** | An end-to-end COVID-19 data pipeline built with Azure Data Factory to automate data ingestion, transformation, and loading from external COVID-19 data sources. | Azure DataFactory • Azure HDinsight (Hive) • Azure Blob • Azure Databricks (Pyspark, SparkSql)  • Azure SQL Database |
+| 🏥 **Dimensional-Data-Modeling-Project** | A focused data modeling project that designs and implements structured data models—such as star and snowflake schemas—to support analytics, reporting, and efficient query performance. | SQL • MYSQL |
+| 💉 **Modern-ELT-Workflow-with-Fivetran-Snowflake-and-dbt** | A modern ELT data pipeline built with Fivetran, Snowflake, and dbt. Fivetran automates data ingestion from multiple sources into Snowflake, where raw data is centralized. | dbt • Snowflake • SQL • Fivetran |
+| 🌍 **Formula-1-Race-Analytics-Project-Using-Databricks-on-Azure** | A comprehensive Formula 1 Race Analytics project built on Azure Databricks, leveraging distributed computing to ingest, process, and analyze race telemetry and driver performance data. | Python • Azure • Databricks |
 
 > 🔍 Explore more on [my repositories »](https://github.com/godswill-analytics?tab=repositories)
 
